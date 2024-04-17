@@ -12,7 +12,7 @@
         "nodeGypDependencies": true,
         "version": "18",
         "nvmVersion": "latest"
-      },
+      }
     },
     // Configure tool-specific properties.
     "customizations": {
